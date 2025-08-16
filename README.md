@@ -1,4 +1,4 @@
-# Access Granted – Hello, I'm Went Ruzel! 👩‍💻
+# Hello, I'm Went Ruzel! 👩‍💻
 
 📍 **Cebu** | 💻 **Bachelor of Science in Information Technology**
 
