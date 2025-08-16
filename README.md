@@ -1,6 +1,6 @@
 # Access Granted – Hello, I'm Went Ruzel! 👩‍💻
 
-📍 **Cebu** | 💻 **Currently studying Bachelor of Science in Information Technology**
+📍 **Cebu** | 💻 **Bachelor of Science in Information Technology**
 
 <div align="center">
 
