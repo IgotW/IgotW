@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 </div>
 
