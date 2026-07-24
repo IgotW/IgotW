@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Portfolio](https://wentruzeligot.vercel.app/)]()
 
 </div>
 
