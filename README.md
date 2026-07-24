@@ -16,7 +16,7 @@ Building modern web and mobile applications with a passion for creating clean, s
 
 * 🎓 Bachelor of Science in Information Technology
 * 💻 Full-Stack Web & Mobile Developer
-* 🌱 Currently exploring **Next.js**, **Docker**, **NGINX**, and **Cloud Deployment**
+* 🌱 Currently exploring **AI Automation**, **NGINX**, and **Cloud Deployment**
 * 📍 Cebu, Philippines
 * 🎯 Passionate about solving real-world problems through technology
 
@@ -28,7 +28,6 @@ Building modern web and mobile applications with a passion for creating clean, s
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
